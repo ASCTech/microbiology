@@ -651,6 +651,10 @@ body.node-type-people div.field-field-bio { clear: both; padding-top: 10px; }
 	position: absolute;
 }
 
+#osulogo {
+	bottom: 40px;
+}
+
 #logo {
 	float: left;
 	width: 244px;
@@ -658,9 +662,9 @@ body.node-type-people div.field-field-bio { clear: both; padding-top: 10px; }
 
 #osulogo {
 	background: transparent url("../images/osulogo.png") no-repeat scroll 0 0;
-	height: 86px;
+	height: 117px;
 	right: 0;
-	width: 84px;
+	width: 167px;
 }
 
 div.breadcrumb {
