@@ -1,0 +1,31 @@
+name = Microbiology
+description = Department of Microbiology Theme.
+core = 6.x
+engine = phptemplate
+
+scripts[] = clearsearch.js
+
+stylesheets[all][] = styles/osu-navbar-media/css/navbar.css
+stylesheets[screen, projection][] = styles/blueprint/screen.css
+stylesheets[screen][] = styles/default.css
+stylesheets[all][] = styles/navbar.css
+stylesheets[all][] = styles/faculty.css
+
+regions[rotor_left] = front page left rotor
+regions[rotor_top] = front page top rotor
+regions[rotor_bottom] = front page bottom rotor
+regions[front_links] = front page header
+regions[front_news_feature] = front page featured news
+regions[front_news_other] = front page other news
+regions[front_events] = front page events column
+regions[front_faculty] = front page faculty column
+
+regions[before_content] = before content
+regions[after_content] = after content
+
+regions[right] = right
+regions[MainNav] = main navigation
+regions[drupalnav] = drupal navigation
+regions[footer] = footer
+regions[footer_menu] = footer menu
+

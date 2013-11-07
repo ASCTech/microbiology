@@ -1,0 +1,79 @@
+body.node-type-faculty h1#title { display: none; }
+body.node-type-faculty div.field-field-first { color: #111; font-size: 150%; font-weight: normal; line-height: 1;  clear:both; padding-top:10px; width:435px}
+body.node-type-faculty div.field-field-person-image { float: left; clear: both; padding-bottom:5px;}
+body.node-type-faculty div.field-field-affiliations { float: left; width: 160px; margin: 0 15px; }
+body.node-type-faculty div.field-field-second-image {padding-bottom: 5px; }
+body.node-type-faculty div.field-field-website {font-size: 110%; font-weight: bold; }
+body.node-type-faculty div.field-field-publications-link {font-size: 110%; font-weight: bold; }
+body.node-type-faculty div.group-fac-top-right { float:left;}
+body.node-type-faculty div.group-fac-top-left { float:left;}
+body.node-type-faculty div.group-fac-top-left .content{ padding-left:0px; padding-bottom:15px;}
+body.node-type-faculty div.fieldgroup   {margin:0}
+/*body.node-type-faculty div.field-field-website { float: right; width: 300px; text-align: left; clear: right; }
+body.node-type-faculty div.field-field-publications-link { float: right; width: 300px; text-align: left; clear: right; }*/
+
+body.node-type-faculty div.field-field-position { ; clear: both; font-size:130%; width:435px;}
+body.node-type-faculty div.field-field-degrees { margin-top: 10px; width:435px}
+
+body.node-type-faculty div.field-field-address { margin-top: 15px; }
+body.node-type-faculty div.field-field-address div.field-label {font-weight:bold}
+body.node-type-faculty div.field-field-address .field-label,
+body.node-type-faculty div.field-field-phone .field-label,
+body.node-type-faculty div.field-field-lab-phone .field-label,
+body.node-type-faculty div.field-field-email .field-label { float: left; width: 140px; font-weight: bold; }
+
+body.node-type-faculty div.field-field-phone div.field-label {font-weight:bold}
+body.node-type-faculty div.field-field-lab-phone div.field-label {font-weight:bold}
+
+body.node-type-faculty div.field-field-research-interests { margin-top: 15px; clear:both}
+body.node-type-faculty div.field-field-research-interests .field-label { font-size: 150%; }
+body.node-type-faculty div.field-field-publications { margin-top: 15px; }
+body.node-type-faculty div.field-field-publications .field-label { font-size: 150%; }
+
+
+
+body.page-faculty div.view-directory table.views-table { font-size: 11px; }
+body.page-faculty div.view-directory table.views-table tr.even,
+body.page-faculty div.view-directory table.views-table tr.even td,
+body.page-faculty div.view-directory table.views-table tr.odd,
+body.page-faculty div.view-directory table.views-table td.active { background-color: #FFF; }
+body.page-faculty div.view-directory table.views-table tr td { border-bottom: 1px solid #ccc; }
+body.page-faculty div.view-directory table.views-table tr td { padding: 10px 5px; }
+body.page-faculty div.view-directory table.views-table thead th { background-color: #FFF; }
+
+body.page-faculty div.view-directory table.views-table td.views-field-title { width: 150px; }
+body.page-faculty div.view-directory table.views-table td.views-field-title .name { font-weight: bold; }
+body.page-faculty div.view-directory table.views-table td.views-field-field-specialization-value { width: 240px; }
+body.page-faculty div.view-directory table.views-table td.views-field-field-phone-value { width: 115px; }
+body.page-faculty div.view-directory table.views-table td.views-field-field-email-email { font-weight: bold; width: 170px; }
+
+
+body.page-facultyentry h1#title {
+	display: none;
+}
+
+body.page-facultyentry .views-field-field-position-value,
+body.page-facultyentry #faculty-name {
+	color: #111; font-size: 150%; font-weight: normal; line-height: 1; margin-bottom: 0.5em; 
+}
+body.page-facultyentry #faculty-name { clear: both; }
+
+body.page-facultyentry table.views-table tr.information-row td {
+	vertical-align: top;
+	text-align: left;
+}
+
+body.page-facultyentry table.views-table tr.information-row .information-label {
+	display: block;
+	float: left;
+	width: 150px;
+}
+
+body.page-facultyentry .edit-link a {
+	display: block;
+	padding: 1px 3px;
+	font-size: 10px;
+	float: left;
+	background-color: #DDD;
+	color: #000;
+}
